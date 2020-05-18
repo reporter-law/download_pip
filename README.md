@@ -1,4 +1,4 @@
-# download_pip
+# download_pip(镜像加速）
 window下更换镜像比较麻烦；由于系统重装导致在pycharm中下载的包和pip下载包的地址不一致，希望下载到pip下载的地址中去
 效果：镜像加速
 使用方法：
